@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Spring Web MVC</title>
   </head>
   <body>
   使用IntelliJ IDEA 搭建 Spring MVC 成功！
